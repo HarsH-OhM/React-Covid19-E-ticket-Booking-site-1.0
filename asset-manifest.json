@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Covid19-E-ticket-Booking-site-1.0/static/css/main.2e251763.chunk.css",
+    "main.js": "/React-Covid19-E-ticket-Booking-site-1.0/static/js/main.b56a1d92.chunk.js",
+    "main.js.map": "/React-Covid19-E-ticket-Booking-site-1.0/static/js/main.b56a1d92.chunk.js.map",
+    "runtime-main.js": "/React-Covid19-E-ticket-Booking-site-1.0/static/js/runtime-main.646cd3fa.js",
+    "runtime-main.js.map": "/React-Covid19-E-ticket-Booking-site-1.0/static/js/runtime-main.646cd3fa.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/React-Covid19-E-ticket-Booking-site-1.0/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2145fcd5.chunk.js": "/React-Covid19-E-ticket-Booking-site-1.0/static/js/2.2145fcd5.chunk.js",
+    "static/js/2.2145fcd5.chunk.js.map": "/React-Covid19-E-ticket-Booking-site-1.0/static/js/2.2145fcd5.chunk.js.map",
+    "index.html": "/React-Covid19-E-ticket-Booking-site-1.0/index.html",
+    "precache-manifest.ede25b4edec63f388a736edeace13928.js": "/React-Covid19-E-ticket-Booking-site-1.0/precache-manifest.ede25b4edec63f388a736edeace13928.js",
+    "service-worker.js": "/React-Covid19-E-ticket-Booking-site-1.0/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/React-Covid19-E-ticket-Booking-site-1.0/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.2e251763.chunk.css.map": "/React-Covid19-E-ticket-Booking-site-1.0/static/css/main.2e251763.chunk.css.map",
+    "static/js/2.2145fcd5.chunk.js.LICENSE.txt": "/React-Covid19-E-ticket-Booking-site-1.0/static/js/2.2145fcd5.chunk.js.LICENSE.txt",
+    "static/media/airtrav.webp": "/React-Covid19-E-ticket-Booking-site-1.0/static/media/airtrav.089faf5c.webp",
+    "static/media/index.css": "/React-Covid19-E-ticket-Booking-site-1.0/static/media/bimg.3a8d2908.jfif",
+    "static/media/bustrav.jpg": "/React-Covid19-E-ticket-Booking-site-1.0/static/media/bustrav.d219c44a.jpg",
+    "static/media/weather.css": "/React-Covid19-E-ticket-Booking-site-1.0/static/media/hot.cb3223c4.jpg",
+    "static/media/image.jpg": "/React-Covid19-E-ticket-Booking-site-1.0/static/media/image.4732be2b.jpg",
+    "static/media/mine.jpg": "/React-Covid19-E-ticket-Booking-site-1.0/static/media/mine.0ab4ab65.jpg",
+    "static/media/traintrav.jpg": "/React-Covid19-E-ticket-Booking-site-1.0/static/media/traintrav.2f119a31.jpg",
+    "static/media/travel.jfif": "/React-Covid19-E-ticket-Booking-site-1.0/static/media/travel.5244711d.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.646cd3fa.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2145fcd5.chunk.js",
+    "static/css/main.2e251763.chunk.css",
+    "static/js/main.b56a1d92.chunk.js"
+  ]
+}
