@@ -1,0 +1,25 @@
+.container {
+    display: block;
+    justify-content: center;
+  }
+
+  .container h3 a{
+      color: darkgoldenrod;
+      
+  }
+  a{
+    color: darkgoldenrod;
+
+  }
+  
+  /* .list li a{
+
+    
+
+      
+        color: #cccccc;
+        font-size: 14px;
+        @include transition;
+      
+    
+  } */
